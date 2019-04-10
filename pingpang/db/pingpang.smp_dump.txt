@@ -1,0 +1,16 @@
+
+State Machine - |pingpang|stage
+Name stage.s_12 stage.s_11 stage.s_10 stage.s_9 stage.s_8 stage.s_7 stage.s_6 stage.s_5 stage.s_4 stage.s_3 stage.s_2 stage.s_1 stage.s_0 
+stage.s_0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+stage.s_1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+stage.s_2 0 0 0 0 0 0 0 0 0 0 1 0 1 
+stage.s_3 0 0 0 0 0 0 0 0 0 1 0 0 1 
+stage.s_4 0 0 0 0 0 0 0 0 1 0 0 0 1 
+stage.s_5 0 0 0 0 0 0 0 1 0 0 0 0 1 
+stage.s_6 0 0 0 0 0 0 1 0 0 0 0 0 1 
+stage.s_7 0 0 0 0 0 1 0 0 0 0 0 0 1 
+stage.s_8 0 0 0 0 1 0 0 0 0 0 0 0 1 
+stage.s_9 0 0 0 1 0 0 0 0 0 0 0 0 1 
+stage.s_10 0 0 1 0 0 0 0 0 0 0 0 0 1 
+stage.s_11 0 1 0 0 0 0 0 0 0 0 0 0 1 
+stage.s_12 1 0 0 0 0 0 0 0 0 0 0 0 1 

@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -5.337
+TNS   : -233.638
+
+Type  : Slow Model Setup 'HSE'
+Slack : -4.633
+TNS   : -332.266
+
+Type  : Slow Model Setup 'clk_1khz'
+Slack : -0.444
+TNS   : -0.463
+
+Type  : Slow Model Hold 'HSE'
+Slack : -2.649
+TNS   : -5.281
+
+Type  : Slow Model Hold 'clk'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Hold 'clk_1khz'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'HSE'
+Slack : -1.941
+TNS   : -114.725
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -0.742
+TNS   : -99.428
+
+Type  : Slow Model Minimum Pulse Width 'clk_1khz'
+Slack : -0.742
+TNS   : -4.452
+
+Type  : Fast Model Setup 'HSE'
+Slack : -1.146
+TNS   : -59.368
+
+Type  : Fast Model Setup 'clk'
+Slack : -1.056
+TNS   : -35.143
+
+Type  : Fast Model Setup 'clk_1khz'
+Slack : 0.519
+TNS   : 0.000
+
+Type  : Fast Model Hold 'HSE'
+Slack : -1.428
+TNS   : -2.836
+
+Type  : Fast Model Hold 'clk'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'clk_1khz'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'HSE'
+Slack : -1.380
+TNS   : -77.380
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -0.500
+TNS   : -67.000
+
+Type  : Fast Model Minimum Pulse Width 'clk_1khz'
+Slack : -0.500
+TNS   : -3.000
+
+------------------------------------------------------------
